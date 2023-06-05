@@ -1,0 +1,10 @@
+# Django #
+__pycache__
+db.sqlite3
+sunbank/
+media
+templates/
+static/
+bank/migrations/
+chat/migrations
+manage.py
